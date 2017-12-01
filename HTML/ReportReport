@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8"/>
+        <title>Test Documentation</title>
+        <style>
+            body {
+                text-rendering: optimizeLegibility;
+                font-variant-ligatures: common-ligatures;
+                font-kerning: normal;
+                margin-left: 2em;
+            }
+
+            body > ul > li {
+                font-family: Source Serif Pro, PT Sans, Trebuchet MS, Helvetica, Arial;
+                font-size: 2em;
+            }
+
+            h2 {
+                font-family: Tahoma, Helvetica, Arial;
+                font-size: 3em;
+            }
+
+            ul {
+                list-style: none;
+                margin-bottom: 1em;
+            }
+        </style>
+    </head>
+    <body>
+        <h2 id="App\Test\TestCase\ApplicationTest">App\Test\TestCase\Application</h2>
+        <ul>
+            <li style="color: #555753;">✓ Middleware</li>
+        </ul>
+        <h2 id="App\Test\TestCase\Controller\ArticlesControllerTest">App\Test\TestCase\Controller\ArticlesController</h2>
+        <ul>
+            <li style="color: #555753;">✓ Index</li>
+            <li style="color: #555753;">✓ View</li>
+            <li style="color: #555753;">✓ Add unauthorized</li>
+            <li style="color: #555753;">✓ Add</li>
+            <li style="color: #555753;">✓ Edit</li>
+            <li style="color: #555753;">✓ Delete</li>
+        </ul>
+        <h2 id="App\Test\TestCase\Controller\CategoriesControllerTest">App\Test\TestCase\Controller\CategoriesController</h2>
+        <ul>
+            <li style="color: #555753;">✓ Index</li>
+            <li style="color: #555753;">✓ View</li>
+            <li style="color: #555753;">✓ Add</li>
+            <li style="color: #555753;">✓ Edit</li>
+            <li style="color: #555753;">✓ Delete</li>
+        </ul>
+        <h2 id="App\Test\TestCase\Controller\PagesControllerTest">App\Test\TestCase\Controller\PagesController</h2>
+        <ul>
+            <li style="color: #555753;">✓ Multiple get</li>
+            <li style="color: #555753;">✓ Display</li>
+            <li style="color: #555753;">✓ Missing template</li>
+            <li style="color: #555753;">✓ Missing template in debug</li>
+            <li style="color: #555753;">✓ Directory traversal protection</li>
+        </ul>
+        <h2 id="App\Test\TestCase\Controller\UsersControllerTest">App\Test\TestCase\Controller\UsersController</h2>
+        <ul>
+            <li style="color: #555753;">✓ Before filter</li>
+            <li style="color: #555753;">✓ Login</li>
+            <li style="color: #555753;">✓ Logout</li>
+            <li style="color: #555753;">✓ Index</li>
+            <li style="color: #555753;">✓ View</li>
+            <li style="color: #555753;">✓ Add</li>
+            <li style="color: #555753;">✓ Is authorized add</li>
+            <li style="color: #555753;">✓ Is authorized edit</li>
+            <li style="color: #555753;">✓ Is authorized delete</li>
+        </ul>
+        <h2 id="App\Test\TestCase\Model\Table\ArticlesTableTest">App\Test\TestCase\Model\Table\ArticlesTable</h2>
+        <ul>
+            <li style="color: #555753;">✓ Find published</li>
+            <li style="color: #555753;">✓ Initialize</li>
+        </ul>
+        <h2 id="App\Test\TestCase\Model\Table\CategoriesTableTest">App\Test\TestCase\Model\Table\CategoriesTable</h2>
+        <ul>
+            <li style="color: #ef2929;">❌ Initialize</li>
+            <li style="color: #ef2929;">❌ Validation default</li>
+            <li style="color: #ef2929;">❌ Build rules</li>
+        </ul>
+        <h2 id="App\Test\TestCase\View\Helper\ProgressHelperTest">App\Test\TestCase\View\Helper\ProgressHelper</h2>
+        <ul>
+            <li style="color: #555753;">✓ Bar</li>
+        </ul>
+    </body>
+</html>

@@ -1,0 +1,573 @@
+2017-11-21 18:33:13 Notice: Notice (8): Undefined variable: created in [/home/felipe/blog2/tests/TestCase/Model/Table/ArticlesTableTest.php, line 47]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 153
+App\Test\TestCase\Model\Table\ArticlesTableTest::testFindPublished() - ROOT/tests/TestCase/Model/Table/ArticlesTableTest.php, line 47
+ReflectionMethod::invokeArgs() - [internal], line ??
+PHPUnit\Framework\TestCase::runTest() - ROOT/vendor/phpunit/phpunit/src/Framework/TestCase.php, line 1071
+PHPUnit\Framework\TestCase::runBare() - ROOT/vendor/phpunit/phpunit/src/Framework/TestCase.php, line 939
+PHPUnit\Framework\TestResult::run() - ROOT/vendor/phpunit/phpunit/src/Framework/TestResult.php, line 698
+PHPUnit\Framework\TestCase::run() - ROOT/vendor/phpunit/phpunit/src/Framework/TestCase.php, line 894
+PHPUnit\Framework\TestSuite::run() - ROOT/vendor/phpunit/phpunit/src/Framework/TestSuite.php, line 744
+PHPUnit\Framework\TestSuite::run() - ROOT/vendor/phpunit/phpunit/src/Framework/TestSuite.php, line 744
+PHPUnit\TextUI\TestRunner::doRun() - ROOT/vendor/phpunit/phpunit/src/TextUI/TestRunner.php, line 537
+PHPUnit\TextUI\Command::run() - ROOT/vendor/phpunit/phpunit/src/TextUI/Command.php, line 195
+PHPUnit\TextUI\Command::main() - ROOT/vendor/phpunit/phpunit/src/TextUI/Command.php, line 148
+[main] - ROOT/vendor/phpunit/phpunit/phpunit, line 53
+
+
+
+2017-11-21 18:33:13 Notice: Notice (8): Undefined variable: modified in [/home/felipe/blog2/tests/TestCase/Model/Table/ArticlesTableTest.php, line 48]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 153
+App\Test\TestCase\Model\Table\ArticlesTableTest::testFindPublished() - ROOT/tests/TestCase/Model/Table/ArticlesTableTest.php, line 48
+ReflectionMethod::invokeArgs() - [internal], line ??
+PHPUnit\Framework\TestCase::runTest() - ROOT/vendor/phpunit/phpunit/src/Framework/TestCase.php, line 1071
+PHPUnit\Framework\TestCase::runBare() - ROOT/vendor/phpunit/phpunit/src/Framework/TestCase.php, line 939
+PHPUnit\Framework\TestResult::run() - ROOT/vendor/phpunit/phpunit/src/Framework/TestResult.php, line 698
+PHPUnit\Framework\TestCase::run() - ROOT/vendor/phpunit/phpunit/src/Framework/TestCase.php, line 894
+PHPUnit\Framework\TestSuite::run() - ROOT/vendor/phpunit/phpunit/src/Framework/TestSuite.php, line 744
+PHPUnit\Framework\TestSuite::run() - ROOT/vendor/phpunit/phpunit/src/Framework/TestSuite.php, line 744
+PHPUnit\TextUI\TestRunner::doRun() - ROOT/vendor/phpunit/phpunit/src/TextUI/TestRunner.php, line 537
+PHPUnit\TextUI\Command::run() - ROOT/vendor/phpunit/phpunit/src/TextUI/Command.php, line 195
+PHPUnit\TextUI\Command::main() - ROOT/vendor/phpunit/phpunit/src/TextUI/Command.php, line 148
+[main] - ROOT/vendor/phpunit/phpunit/phpunit, line 53
+
+
+
+2017-11-21 18:33:38 Notice: Notice (8): Use of undefined constant created - assumed 'created' in [/home/felipe/blog2/tests/TestCase/Model/Table/ArticlesTableTest.php, line 47]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 153
+App\Test\TestCase\Model\Table\ArticlesTableTest::testFindPublished() - ROOT/tests/TestCase/Model/Table/ArticlesTableTest.php, line 47
+ReflectionMethod::invokeArgs() - [internal], line ??
+PHPUnit\Framework\TestCase::runTest() - ROOT/vendor/phpunit/phpunit/src/Framework/TestCase.php, line 1071
+PHPUnit\Framework\TestCase::runBare() - ROOT/vendor/phpunit/phpunit/src/Framework/TestCase.php, line 939
+PHPUnit\Framework\TestResult::run() - ROOT/vendor/phpunit/phpunit/src/Framework/TestResult.php, line 698
+PHPUnit\Framework\TestCase::run() - ROOT/vendor/phpunit/phpunit/src/Framework/TestCase.php, line 894
+PHPUnit\Framework\TestSuite::run() - ROOT/vendor/phpunit/phpunit/src/Framework/TestSuite.php, line 744
+PHPUnit\Framework\TestSuite::run() - ROOT/vendor/phpunit/phpunit/src/Framework/TestSuite.php, line 744
+PHPUnit\TextUI\TestRunner::doRun() - ROOT/vendor/phpunit/phpunit/src/TextUI/TestRunner.php, line 537
+PHPUnit\TextUI\Command::run() - ROOT/vendor/phpunit/phpunit/src/TextUI/Command.php, line 195
+PHPUnit\TextUI\Command::main() - ROOT/vendor/phpunit/phpunit/src/TextUI/Command.php, line 148
+[main] - ROOT/vendor/phpunit/phpunit/phpunit, line 53
+
+
+
+2017-11-21 18:33:38 Notice: Notice (8): Use of undefined constant modified - assumed 'modified' in [/home/felipe/blog2/tests/TestCase/Model/Table/ArticlesTableTest.php, line 48]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 153
+App\Test\TestCase\Model\Table\ArticlesTableTest::testFindPublished() - ROOT/tests/TestCase/Model/Table/ArticlesTableTest.php, line 48
+ReflectionMethod::invokeArgs() - [internal], line ??
+PHPUnit\Framework\TestCase::runTest() - ROOT/vendor/phpunit/phpunit/src/Framework/TestCase.php, line 1071
+PHPUnit\Framework\TestCase::runBare() - ROOT/vendor/phpunit/phpunit/src/Framework/TestCase.php, line 939
+PHPUnit\Framework\TestResult::run() - ROOT/vendor/phpunit/phpunit/src/Framework/TestResult.php, line 698
+PHPUnit\Framework\TestCase::run() - ROOT/vendor/phpunit/phpunit/src/Framework/TestCase.php, line 894
+PHPUnit\Framework\TestSuite::run() - ROOT/vendor/phpunit/phpunit/src/Framework/TestSuite.php, line 744
+PHPUnit\Framework\TestSuite::run() - ROOT/vendor/phpunit/phpunit/src/Framework/TestSuite.php, line 744
+PHPUnit\TextUI\TestRunner::doRun() - ROOT/vendor/phpunit/phpunit/src/TextUI/TestRunner.php, line 537
+PHPUnit\TextUI\Command::run() - ROOT/vendor/phpunit/phpunit/src/TextUI/Command.php, line 195
+PHPUnit\TextUI\Command::main() - ROOT/vendor/phpunit/phpunit/src/TextUI/Command.php, line 148
+[main] - ROOT/vendor/phpunit/phpunit/phpunit, line 53
+
+
+
+2017-11-21 18:34:45 Notice: Notice (8): Undefined variable: created in [/home/felipe/blog2/tests/TestCase/Model/Table/ArticlesTableTest.php, line 47]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 153
+App\Test\TestCase\Model\Table\ArticlesTableTest::testFindPublished() - ROOT/tests/TestCase/Model/Table/ArticlesTableTest.php, line 47
+ReflectionMethod::invokeArgs() - [internal], line ??
+PHPUnit\Framework\TestCase::runTest() - ROOT/vendor/phpunit/phpunit/src/Framework/TestCase.php, line 1071
+PHPUnit\Framework\TestCase::runBare() - ROOT/vendor/phpunit/phpunit/src/Framework/TestCase.php, line 939
+PHPUnit\Framework\TestResult::run() - ROOT/vendor/phpunit/phpunit/src/Framework/TestResult.php, line 698
+PHPUnit\Framework\TestCase::run() - ROOT/vendor/phpunit/phpunit/src/Framework/TestCase.php, line 894
+PHPUnit\Framework\TestSuite::run() - ROOT/vendor/phpunit/phpunit/src/Framework/TestSuite.php, line 744
+PHPUnit\Framework\TestSuite::run() - ROOT/vendor/phpunit/phpunit/src/Framework/TestSuite.php, line 744
+PHPUnit\TextUI\TestRunner::doRun() - ROOT/vendor/phpunit/phpunit/src/TextUI/TestRunner.php, line 537
+PHPUnit\TextUI\Command::run() - ROOT/vendor/phpunit/phpunit/src/TextUI/Command.php, line 195
+PHPUnit\TextUI\Command::main() - ROOT/vendor/phpunit/phpunit/src/TextUI/Command.php, line 148
+[main] - ROOT/vendor/phpunit/phpunit/phpunit, line 53
+
+
+
+2017-11-21 18:34:45 Notice: Notice (8): Undefined variable: modified in [/home/felipe/blog2/tests/TestCase/Model/Table/ArticlesTableTest.php, line 48]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 153
+App\Test\TestCase\Model\Table\ArticlesTableTest::testFindPublished() - ROOT/tests/TestCase/Model/Table/ArticlesTableTest.php, line 48
+ReflectionMethod::invokeArgs() - [internal], line ??
+PHPUnit\Framework\TestCase::runTest() - ROOT/vendor/phpunit/phpunit/src/Framework/TestCase.php, line 1071
+PHPUnit\Framework\TestCase::runBare() - ROOT/vendor/phpunit/phpunit/src/Framework/TestCase.php, line 939
+PHPUnit\Framework\TestResult::run() - ROOT/vendor/phpunit/phpunit/src/Framework/TestResult.php, line 698
+PHPUnit\Framework\TestCase::run() - ROOT/vendor/phpunit/phpunit/src/Framework/TestCase.php, line 894
+PHPUnit\Framework\TestSuite::run() - ROOT/vendor/phpunit/phpunit/src/Framework/TestSuite.php, line 744
+PHPUnit\Framework\TestSuite::run() - ROOT/vendor/phpunit/phpunit/src/Framework/TestSuite.php, line 744
+PHPUnit\TextUI\TestRunner::doRun() - ROOT/vendor/phpunit/phpunit/src/TextUI/TestRunner.php, line 537
+PHPUnit\TextUI\Command::run() - ROOT/vendor/phpunit/phpunit/src/TextUI/Command.php, line 195
+PHPUnit\TextUI\Command::main() - ROOT/vendor/phpunit/phpunit/src/TextUI/Command.php, line 148
+[main] - ROOT/vendor/phpunit/phpunit/phpunit, line 53
+
+
+
+2017-11-21 18:37:41 Notice: Notice (8): Undefined variable: created in [/home/felipe/blog2/tests/TestCase/Model/Table/ArticlesTableTest.php, line 47]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 153
+App\Test\TestCase\Model\Table\ArticlesTableTest::testFindPublished() - ROOT/tests/TestCase/Model/Table/ArticlesTableTest.php, line 47
+ReflectionMethod::invokeArgs() - [internal], line ??
+PHPUnit\Framework\TestCase::runTest() - ROOT/vendor/phpunit/phpunit/src/Framework/TestCase.php, line 1071
+PHPUnit\Framework\TestCase::runBare() - ROOT/vendor/phpunit/phpunit/src/Framework/TestCase.php, line 939
+PHPUnit\Framework\TestResult::run() - ROOT/vendor/phpunit/phpunit/src/Framework/TestResult.php, line 698
+PHPUnit\Framework\TestCase::run() - ROOT/vendor/phpunit/phpunit/src/Framework/TestCase.php, line 894
+PHPUnit\Framework\TestSuite::run() - ROOT/vendor/phpunit/phpunit/src/Framework/TestSuite.php, line 744
+PHPUnit\Framework\TestSuite::run() - ROOT/vendor/phpunit/phpunit/src/Framework/TestSuite.php, line 744
+PHPUnit\TextUI\TestRunner::doRun() - ROOT/vendor/phpunit/phpunit/src/TextUI/TestRunner.php, line 537
+PHPUnit\TextUI\Command::run() - ROOT/vendor/phpunit/phpunit/src/TextUI/Command.php, line 195
+PHPUnit\TextUI\Command::main() - ROOT/vendor/phpunit/phpunit/src/TextUI/Command.php, line 148
+[main] - ROOT/vendor/phpunit/phpunit/phpunit, line 53
+
+
+
+2017-11-21 18:37:41 Notice: Notice (8): Undefined variable: modified in [/home/felipe/blog2/tests/TestCase/Model/Table/ArticlesTableTest.php, line 48]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 153
+App\Test\TestCase\Model\Table\ArticlesTableTest::testFindPublished() - ROOT/tests/TestCase/Model/Table/ArticlesTableTest.php, line 48
+ReflectionMethod::invokeArgs() - [internal], line ??
+PHPUnit\Framework\TestCase::runTest() - ROOT/vendor/phpunit/phpunit/src/Framework/TestCase.php, line 1071
+PHPUnit\Framework\TestCase::runBare() - ROOT/vendor/phpunit/phpunit/src/Framework/TestCase.php, line 939
+PHPUnit\Framework\TestResult::run() - ROOT/vendor/phpunit/phpunit/src/Framework/TestResult.php, line 698
+PHPUnit\Framework\TestCase::run() - ROOT/vendor/phpunit/phpunit/src/Framework/TestCase.php, line 894
+PHPUnit\Framework\TestSuite::run() - ROOT/vendor/phpunit/phpunit/src/Framework/TestSuite.php, line 744
+PHPUnit\Framework\TestSuite::run() - ROOT/vendor/phpunit/phpunit/src/Framework/TestSuite.php, line 744
+PHPUnit\TextUI\TestRunner::doRun() - ROOT/vendor/phpunit/phpunit/src/TextUI/TestRunner.php, line 537
+PHPUnit\TextUI\Command::run() - ROOT/vendor/phpunit/phpunit/src/TextUI/Command.php, line 195
+PHPUnit\TextUI\Command::main() - ROOT/vendor/phpunit/phpunit/src/TextUI/Command.php, line 148
+[main] - ROOT/vendor/phpunit/phpunit/phpunit, line 53
+
+
+
+2017-11-21 18:44:40 Notice: Notice (8): Undefined variable: articles in [/home/felipe/blog2/src/Model/Table/ArticlesTable.php, line 21]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 153
+App\Model\Table\ArticlesTable::findPublished() - APP/Model/Table/ArticlesTable.php, line 21
+Cake\ORM\Table::callFinder() - CORE/src/ORM/Table.php, line 2209
+Cake\ORM\Table::find() - CORE/src/ORM/Table.php, line 1181
+App\Test\TestCase\Model\Table\ArticlesTableTest::testFindPublished() - ROOT/tests/TestCase/Model/Table/ArticlesTableTest.php, line 44
+ReflectionMethod::invokeArgs() - [internal], line ??
+PHPUnit\Framework\TestCase::runTest() - ROOT/vendor/phpunit/phpunit/src/Framework/TestCase.php, line 1071
+PHPUnit\Framework\TestCase::runBare() - ROOT/vendor/phpunit/phpunit/src/Framework/TestCase.php, line 939
+PHPUnit\Framework\TestResult::run() - ROOT/vendor/phpunit/phpunit/src/Framework/TestResult.php, line 698
+PHPUnit\Framework\TestCase::run() - ROOT/vendor/phpunit/phpunit/src/Framework/TestCase.php, line 894
+PHPUnit\Framework\TestSuite::run() - ROOT/vendor/phpunit/phpunit/src/Framework/TestSuite.php, line 744
+PHPUnit\Framework\TestSuite::run() - ROOT/vendor/phpunit/phpunit/src/Framework/TestSuite.php, line 744
+PHPUnit\TextUI\TestRunner::doRun() - ROOT/vendor/phpunit/phpunit/src/TextUI/TestRunner.php, line 537
+PHPUnit\TextUI\Command::run() - ROOT/vendor/phpunit/phpunit/src/TextUI/Command.php, line 195
+PHPUnit\TextUI\Command::main() - ROOT/vendor/phpunit/phpunit/src/TextUI/Command.php, line 148
+[main] - ROOT/vendor/phpunit/phpunit/phpunit, line 53
+
+
+
+2017-11-21 18:45:52 Notice: Notice (8): Undefined variable: articles in [/home/felipe/blog2/src/Model/Table/ArticlesTable.php, line 21]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 153
+App\Model\Table\ArticlesTable::findPublished() - APP/Model/Table/ArticlesTable.php, line 21
+Cake\ORM\Table::callFinder() - CORE/src/ORM/Table.php, line 2209
+Cake\ORM\Table::find() - CORE/src/ORM/Table.php, line 1181
+App\Test\TestCase\Model\Table\ArticlesTableTest::testFindPublished() - ROOT/tests/TestCase/Model/Table/ArticlesTableTest.php, line 44
+ReflectionMethod::invokeArgs() - [internal], line ??
+PHPUnit\Framework\TestCase::runTest() - ROOT/vendor/phpunit/phpunit/src/Framework/TestCase.php, line 1071
+PHPUnit\Framework\TestCase::runBare() - ROOT/vendor/phpunit/phpunit/src/Framework/TestCase.php, line 939
+PHPUnit\Framework\TestResult::run() - ROOT/vendor/phpunit/phpunit/src/Framework/TestResult.php, line 698
+PHPUnit\Framework\TestCase::run() - ROOT/vendor/phpunit/phpunit/src/Framework/TestCase.php, line 894
+PHPUnit\Framework\TestSuite::run() - ROOT/vendor/phpunit/phpunit/src/Framework/TestSuite.php, line 744
+PHPUnit\Framework\TestSuite::run() - ROOT/vendor/phpunit/phpunit/src/Framework/TestSuite.php, line 744
+PHPUnit\TextUI\TestRunner::doRun() - ROOT/vendor/phpunit/phpunit/src/TextUI/TestRunner.php, line 537
+PHPUnit\TextUI\Command::run() - ROOT/vendor/phpunit/phpunit/src/TextUI/Command.php, line 195
+PHPUnit\TextUI\Command::main() - ROOT/vendor/phpunit/phpunit/src/TextUI/Command.php, line 148
+[main] - ROOT/vendor/phpunit/phpunit/phpunit, line 53
+
+
+
+2017-11-21 18:47:54 Notice: Notice (8): Undefined variable: articles in [/home/felipe/blog2/src/Model/Table/ArticlesTable.php, line 22]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 153
+App\Model\Table\ArticlesTable::findPublished() - APP/Model/Table/ArticlesTable.php, line 22
+Cake\ORM\Table::callFinder() - CORE/src/ORM/Table.php, line 2209
+Cake\ORM\Table::find() - CORE/src/ORM/Table.php, line 1181
+App\Test\TestCase\Model\Table\ArticlesTableTest::testFindPublished() - ROOT/tests/TestCase/Model/Table/ArticlesTableTest.php, line 44
+ReflectionMethod::invokeArgs() - [internal], line ??
+PHPUnit\Framework\TestCase::runTest() - ROOT/vendor/phpunit/phpunit/src/Framework/TestCase.php, line 1071
+PHPUnit\Framework\TestCase::runBare() - ROOT/vendor/phpunit/phpunit/src/Framework/TestCase.php, line 939
+PHPUnit\Framework\TestResult::run() - ROOT/vendor/phpunit/phpunit/src/Framework/TestResult.php, line 698
+PHPUnit\Framework\TestCase::run() - ROOT/vendor/phpunit/phpunit/src/Framework/TestCase.php, line 894
+PHPUnit\Framework\TestSuite::run() - ROOT/vendor/phpunit/phpunit/src/Framework/TestSuite.php, line 744
+PHPUnit\Framework\TestSuite::run() - ROOT/vendor/phpunit/phpunit/src/Framework/TestSuite.php, line 744
+PHPUnit\TextUI\TestRunner::doRun() - ROOT/vendor/phpunit/phpunit/src/TextUI/TestRunner.php, line 537
+PHPUnit\TextUI\Command::run() - ROOT/vendor/phpunit/phpunit/src/TextUI/Command.php, line 195
+PHPUnit\TextUI\Command::main() - ROOT/vendor/phpunit/phpunit/src/TextUI/Command.php, line 148
+[main] - ROOT/vendor/phpunit/phpunit/phpunit, line 53
+
+
+
+2017-11-21 19:02:17 Notice: Notice (8): Undefined variable: query in [/home/felipe/blog2/tests/TestCase/Model/Table/ArticlesTableTest.php, line 44]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 153
+App\Test\TestCase\Model\Table\ArticlesTableTest::testFindPublished() - ROOT/tests/TestCase/Model/Table/ArticlesTableTest.php, line 44
+ReflectionMethod::invokeArgs() - [internal], line ??
+PHPUnit\Framework\TestCase::runTest() - ROOT/vendor/phpunit/phpunit/src/Framework/TestCase.php, line 1071
+PHPUnit\Framework\TestCase::runBare() - ROOT/vendor/phpunit/phpunit/src/Framework/TestCase.php, line 939
+PHPUnit\Framework\TestResult::run() - ROOT/vendor/phpunit/phpunit/src/Framework/TestResult.php, line 698
+PHPUnit\Framework\TestCase::run() - ROOT/vendor/phpunit/phpunit/src/Framework/TestCase.php, line 894
+PHPUnit\Framework\TestSuite::run() - ROOT/vendor/phpunit/phpunit/src/Framework/TestSuite.php, line 744
+PHPUnit\Framework\TestSuite::run() - ROOT/vendor/phpunit/phpunit/src/Framework/TestSuite.php, line 744
+PHPUnit\TextUI\TestRunner::doRun() - ROOT/vendor/phpunit/phpunit/src/TextUI/TestRunner.php, line 537
+PHPUnit\TextUI\Command::run() - ROOT/vendor/phpunit/phpunit/src/TextUI/Command.php, line 195
+PHPUnit\TextUI\Command::main() - ROOT/vendor/phpunit/phpunit/src/TextUI/Command.php, line 148
+[main] - ROOT/vendor/phpunit/phpunit/phpunit, line 53
+
+
+
+2017-11-21 19:02:50 Notice: Notice (8): Undefined variable: query in [/home/felipe/blog2/src/Model/Table/ArticlesTable.php, line 21]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 153
+App\Model\Table\ArticlesTable::findPublished() - APP/Model/Table/ArticlesTable.php, line 21
+App\Test\TestCase\Model\Table\ArticlesTableTest::testFindPublished() - ROOT/tests/TestCase/Model/Table/ArticlesTableTest.php, line 44
+ReflectionMethod::invokeArgs() - [internal], line ??
+PHPUnit\Framework\TestCase::runTest() - ROOT/vendor/phpunit/phpunit/src/Framework/TestCase.php, line 1071
+PHPUnit\Framework\TestCase::runBare() - ROOT/vendor/phpunit/phpunit/src/Framework/TestCase.php, line 939
+PHPUnit\Framework\TestResult::run() - ROOT/vendor/phpunit/phpunit/src/Framework/TestResult.php, line 698
+PHPUnit\Framework\TestCase::run() - ROOT/vendor/phpunit/phpunit/src/Framework/TestCase.php, line 894
+PHPUnit\Framework\TestSuite::run() - ROOT/vendor/phpunit/phpunit/src/Framework/TestSuite.php, line 744
+PHPUnit\Framework\TestSuite::run() - ROOT/vendor/phpunit/phpunit/src/Framework/TestSuite.php, line 744
+PHPUnit\TextUI\TestRunner::doRun() - ROOT/vendor/phpunit/phpunit/src/TextUI/TestRunner.php, line 537
+PHPUnit\TextUI\Command::run() - ROOT/vendor/phpunit/phpunit/src/TextUI/Command.php, line 195
+PHPUnit\TextUI\Command::main() - ROOT/vendor/phpunit/phpunit/src/TextUI/Command.php, line 148
+[main] - ROOT/vendor/phpunit/phpunit/phpunit, line 53
+
+
+
+2017-11-21 19:04:21 Notice: Notice (8): Undefined variable: query in [/home/felipe/blog2/tests/TestCase/Model/Table/ArticlesTableTest.php, line 44]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 153
+App\Test\TestCase\Model\Table\ArticlesTableTest::testFindPublished() - ROOT/tests/TestCase/Model/Table/ArticlesTableTest.php, line 44
+ReflectionMethod::invokeArgs() - [internal], line ??
+PHPUnit\Framework\TestCase::runTest() - ROOT/vendor/phpunit/phpunit/src/Framework/TestCase.php, line 1071
+PHPUnit\Framework\TestCase::runBare() - ROOT/vendor/phpunit/phpunit/src/Framework/TestCase.php, line 939
+PHPUnit\Framework\TestResult::run() - ROOT/vendor/phpunit/phpunit/src/Framework/TestResult.php, line 698
+PHPUnit\Framework\TestCase::run() - ROOT/vendor/phpunit/phpunit/src/Framework/TestCase.php, line 894
+PHPUnit\Framework\TestSuite::run() - ROOT/vendor/phpunit/phpunit/src/Framework/TestSuite.php, line 744
+PHPUnit\Framework\TestSuite::run() - ROOT/vendor/phpunit/phpunit/src/Framework/TestSuite.php, line 744
+PHPUnit\TextUI\TestRunner::doRun() - ROOT/vendor/phpunit/phpunit/src/TextUI/TestRunner.php, line 537
+PHPUnit\TextUI\Command::run() - ROOT/vendor/phpunit/phpunit/src/TextUI/Command.php, line 195
+PHPUnit\TextUI\Command::main() - ROOT/vendor/phpunit/phpunit/src/TextUI/Command.php, line 148
+[main] - ROOT/vendor/phpunit/phpunit/phpunit, line 53
+
+
+
+2017-11-21 19:16:59 Notice: Notice (8): Undefined variable: articles in [/home/felipe/blog2/tests/TestCase/Model/Table/ArticlesTableTest.php, line 46]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 153
+App\Test\TestCase\Model\Table\ArticlesTableTest::testFindPublished() - ROOT/tests/TestCase/Model/Table/ArticlesTableTest.php, line 46
+ReflectionMethod::invokeArgs() - [internal], line ??
+PHPUnit\Framework\TestCase::runTest() - ROOT/vendor/phpunit/phpunit/src/Framework/TestCase.php, line 1071
+PHPUnit\Framework\TestCase::runBare() - ROOT/vendor/phpunit/phpunit/src/Framework/TestCase.php, line 939
+PHPUnit\Framework\TestResult::run() - ROOT/vendor/phpunit/phpunit/src/Framework/TestResult.php, line 698
+PHPUnit\Framework\TestCase::run() - ROOT/vendor/phpunit/phpunit/src/Framework/TestCase.php, line 894
+PHPUnit\Framework\TestSuite::run() - ROOT/vendor/phpunit/phpunit/src/Framework/TestSuite.php, line 744
+PHPUnit\TextUI\TestRunner::doRun() - ROOT/vendor/phpunit/phpunit/src/TextUI/TestRunner.php, line 537
+PHPUnit\TextUI\Command::run() - ROOT/vendor/phpunit/phpunit/src/TextUI/Command.php, line 195
+PHPUnit\TextUI\Command::main() - ROOT/vendor/phpunit/phpunit/src/TextUI/Command.php, line 148
+[main] - ROOT/vendor/phpunit/phpunit/phpunit, line 53
+
+
+
+2017-11-21 19:16:59 Notice: Notice (8): Undefined property: App\Test\TestCase\Model\Table\ArticlesTableTest::$ in [/home/felipe/blog2/tests/TestCase/Model/Table/ArticlesTableTest.php, line 46]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 153
+App\Test\TestCase\Model\Table\ArticlesTableTest::testFindPublished() - ROOT/tests/TestCase/Model/Table/ArticlesTableTest.php, line 46
+ReflectionMethod::invokeArgs() - [internal], line ??
+PHPUnit\Framework\TestCase::runTest() - ROOT/vendor/phpunit/phpunit/src/Framework/TestCase.php, line 1071
+PHPUnit\Framework\TestCase::runBare() - ROOT/vendor/phpunit/phpunit/src/Framework/TestCase.php, line 939
+PHPUnit\Framework\TestResult::run() - ROOT/vendor/phpunit/phpunit/src/Framework/TestResult.php, line 698
+PHPUnit\Framework\TestCase::run() - ROOT/vendor/phpunit/phpunit/src/Framework/TestCase.php, line 894
+PHPUnit\Framework\TestSuite::run() - ROOT/vendor/phpunit/phpunit/src/Framework/TestSuite.php, line 744
+PHPUnit\TextUI\TestRunner::doRun() - ROOT/vendor/phpunit/phpunit/src/TextUI/TestRunner.php, line 537
+PHPUnit\TextUI\Command::run() - ROOT/vendor/phpunit/phpunit/src/TextUI/Command.php, line 195
+PHPUnit\TextUI\Command::main() - ROOT/vendor/phpunit/phpunit/src/TextUI/Command.php, line 148
+[main] - ROOT/vendor/phpunit/phpunit/phpunit, line 53
+
+
+
+2017-11-23 17:25:17 Notice: Notice (8): Undefined index: title 992 in [/home/felipe/blog2/tests/TestCase/Controller/ArticlesControllerTest.php, line 82]
+Request URL: /articles/add
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 153
+App\Test\TestCase\Controller\ArticlesControllerTest::testAdd() - ROOT/tests/TestCase/Controller/ArticlesControllerTest.php, line 82
+ReflectionMethod::invokeArgs() - [internal], line ??
+PHPUnit\Framework\TestCase::runTest() - ROOT/vendor/phpunit/phpunit/src/Framework/TestCase.php, line 1071
+PHPUnit\Framework\TestCase::runBare() - ROOT/vendor/phpunit/phpunit/src/Framework/TestCase.php, line 939
+PHPUnit\Framework\TestResult::run() - ROOT/vendor/phpunit/phpunit/src/Framework/TestResult.php, line 698
+PHPUnit\Framework\TestCase::run() - ROOT/vendor/phpunit/phpunit/src/Framework/TestCase.php, line 894
+PHPUnit\Framework\TestSuite::run() - ROOT/vendor/phpunit/phpunit/src/Framework/TestSuite.php, line 744
+PHPUnit\TextUI\TestRunner::doRun() - ROOT/vendor/phpunit/phpunit/src/TextUI/TestRunner.php, line 537
+PHPUnit\TextUI\Command::run() - ROOT/vendor/phpunit/phpunit/src/TextUI/Command.php, line 195
+PHPUnit\TextUI\Command::main() - ROOT/vendor/phpunit/phpunit/src/TextUI/Command.php, line 148
+[main] - ROOT/vendor/phpunit/phpunit/phpunit, line 53
+
+
+
+2017-11-23 18:29:22 Notice: Notice (8): Undefined variable: categories in [/home/felipe/blog2/tests/TestCase/Controller/CategoriesControllerTest.php, line 134]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 153
+App\Test\TestCase\Controller\CategoriesControllerTest::testDelete() - ROOT/tests/TestCase/Controller/CategoriesControllerTest.php, line 134
+ReflectionMethod::invokeArgs() - [internal], line ??
+PHPUnit\Framework\TestCase::runTest() - ROOT/vendor/phpunit/phpunit/src/Framework/TestCase.php, line 1071
+PHPUnit\Framework\TestCase::runBare() - ROOT/vendor/phpunit/phpunit/src/Framework/TestCase.php, line 939
+PHPUnit\Framework\TestResult::run() - ROOT/vendor/phpunit/phpunit/src/Framework/TestResult.php, line 698
+PHPUnit\Framework\TestCase::run() - ROOT/vendor/phpunit/phpunit/src/Framework/TestCase.php, line 894
+PHPUnit\Framework\TestSuite::run() - ROOT/vendor/phpunit/phpunit/src/Framework/TestSuite.php, line 744
+PHPUnit\TextUI\TestRunner::doRun() - ROOT/vendor/phpunit/phpunit/src/TextUI/TestRunner.php, line 537
+PHPUnit\TextUI\Command::run() - ROOT/vendor/phpunit/phpunit/src/TextUI/Command.php, line 195
+PHPUnit\TextUI\Command::main() - ROOT/vendor/phpunit/phpunit/src/TextUI/Command.php, line 148
+[main] - ROOT/vendor/phpunit/phpunit/phpunit, line 53
+
+
+
+2017-11-24 18:03:29 Notice: Notice (8): Undefined variable: articles in [/home/felipe/blog2/tests/TestCase/Controller/ArticlesControllerTest.php, line 141]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 153
+App\Test\TestCase\Controller\ArticlesControllerTest::testDelete() - ROOT/tests/TestCase/Controller/ArticlesControllerTest.php, line 141
+ReflectionMethod::invokeArgs() - [internal], line ??
+PHPUnit\Framework\TestCase::runTest() - ROOT/vendor/phpunit/phpunit/src/Framework/TestCase.php, line 1071
+PHPUnit\Framework\TestCase::runBare() - ROOT/vendor/phpunit/phpunit/src/Framework/TestCase.php, line 939
+PHPUnit\Framework\TestResult::run() - ROOT/vendor/phpunit/phpunit/src/Framework/TestResult.php, line 698
+PHPUnit\Framework\TestCase::run() - ROOT/vendor/phpunit/phpunit/src/Framework/TestCase.php, line 894
+PHPUnit\Framework\TestSuite::run() - ROOT/vendor/phpunit/phpunit/src/Framework/TestSuite.php, line 744
+PHPUnit\Framework\TestSuite::run() - ROOT/vendor/phpunit/phpunit/src/Framework/TestSuite.php, line 744
+PHPUnit\TextUI\TestRunner::doRun() - ROOT/vendor/phpunit/phpunit/src/TextUI/TestRunner.php, line 537
+PHPUnit\TextUI\Command::run() - ROOT/vendor/phpunit/phpunit/src/TextUI/Command.php, line 195
+PHPUnit\TextUI\Command::main() - ROOT/vendor/phpunit/phpunit/src/TextUI/Command.php, line 148
+[main] - ROOT/vendor/phpunit/phpunit/phpunit, line 53
+
+
+
+2017-11-24 18:05:57 Notice: Notice (8): Undefined variable: articles in [/home/felipe/blog2/tests/TestCase/Controller/ArticlesControllerTest.php, line 141]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 153
+App\Test\TestCase\Controller\ArticlesControllerTest::testDelete() - ROOT/tests/TestCase/Controller/ArticlesControllerTest.php, line 141
+ReflectionMethod::invokeArgs() - [internal], line ??
+PHPUnit\Framework\TestCase::runTest() - ROOT/vendor/phpunit/phpunit/src/Framework/TestCase.php, line 1071
+PHPUnit\Framework\TestCase::runBare() - ROOT/vendor/phpunit/phpunit/src/Framework/TestCase.php, line 939
+PHPUnit\Framework\TestResult::run() - ROOT/vendor/phpunit/phpunit/src/Framework/TestResult.php, line 698
+PHPUnit\Framework\TestCase::run() - ROOT/vendor/phpunit/phpunit/src/Framework/TestCase.php, line 894
+PHPUnit\Framework\TestSuite::run() - ROOT/vendor/phpunit/phpunit/src/Framework/TestSuite.php, line 744
+PHPUnit\Framework\TestSuite::run() - ROOT/vendor/phpunit/phpunit/src/Framework/TestSuite.php, line 744
+PHPUnit\TextUI\TestRunner::doRun() - ROOT/vendor/phpunit/phpunit/src/TextUI/TestRunner.php, line 537
+PHPUnit\TextUI\Command::run() - ROOT/vendor/phpunit/phpunit/src/TextUI/Command.php, line 195
+PHPUnit\TextUI\Command::main() - ROOT/vendor/phpunit/phpunit/src/TextUI/Command.php, line 148
+[main] - ROOT/vendor/phpunit/phpunit/phpunit, line 53
+
+
+
+2017-11-24 18:06:52 Notice: Notice (8): Undefined variable: articles in [/home/felipe/blog2/tests/TestCase/Controller/ArticlesControllerTest.php, line 141]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 153
+App\Test\TestCase\Controller\ArticlesControllerTest::testDelete() - ROOT/tests/TestCase/Controller/ArticlesControllerTest.php, line 141
+ReflectionMethod::invokeArgs() - [internal], line ??
+PHPUnit\Framework\TestCase::runTest() - ROOT/vendor/phpunit/phpunit/src/Framework/TestCase.php, line 1071
+PHPUnit\Framework\TestCase::runBare() - ROOT/vendor/phpunit/phpunit/src/Framework/TestCase.php, line 939
+PHPUnit\Framework\TestResult::run() - ROOT/vendor/phpunit/phpunit/src/Framework/TestResult.php, line 698
+PHPUnit\Framework\TestCase::run() - ROOT/vendor/phpunit/phpunit/src/Framework/TestCase.php, line 894
+PHPUnit\Framework\TestSuite::run() - ROOT/vendor/phpunit/phpunit/src/Framework/TestSuite.php, line 744
+PHPUnit\Framework\TestSuite::run() - ROOT/vendor/phpunit/phpunit/src/Framework/TestSuite.php, line 744
+PHPUnit\TextUI\TestRunner::doRun() - ROOT/vendor/phpunit/phpunit/src/TextUI/TestRunner.php, line 537
+PHPUnit\TextUI\Command::run() - ROOT/vendor/phpunit/phpunit/src/TextUI/Command.php, line 195
+PHPUnit\TextUI\Command::main() - ROOT/vendor/phpunit/phpunit/src/TextUI/Command.php, line 148
+[main] - ROOT/vendor/phpunit/phpunit/phpunit, line 53
+
+
+
+2017-11-24 18:25:14 Notice: Notice (8): Undefined property: App\Test\TestCase\Controller\UsersControllerTest::$request in [/home/felipe/blog2/tests/TestCase/Controller/UsersControllerTest.php, line 103]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 153
+App\Test\TestCase\Controller\UsersControllerTest::testIndex() - ROOT/tests/TestCase/Controller/UsersControllerTest.php, line 103
+ReflectionMethod::invokeArgs() - [internal], line ??
+PHPUnit\Framework\TestCase::runTest() - ROOT/vendor/phpunit/phpunit/src/Framework/TestCase.php, line 1071
+PHPUnit\Framework\TestCase::runBare() - ROOT/vendor/phpunit/phpunit/src/Framework/TestCase.php, line 939
+PHPUnit\Framework\TestResult::run() - ROOT/vendor/phpunit/phpunit/src/Framework/TestResult.php, line 698
+PHPUnit\Framework\TestCase::run() - ROOT/vendor/phpunit/phpunit/src/Framework/TestCase.php, line 894
+PHPUnit\Framework\TestSuite::run() - ROOT/vendor/phpunit/phpunit/src/Framework/TestSuite.php, line 744
+PHPUnit\TextUI\TestRunner::doRun() - ROOT/vendor/phpunit/phpunit/src/TextUI/TestRunner.php, line 537
+PHPUnit\TextUI\Command::run() - ROOT/vendor/phpunit/phpunit/src/TextUI/Command.php, line 195
+PHPUnit\TextUI\Command::main() - ROOT/vendor/phpunit/phpunit/src/TextUI/Command.php, line 148
+[main] - ROOT/vendor/phpunit/phpunit/phpunit, line 53
+
+
+
+2017-11-24 18:27:05 Notice: Notice (8): Undefined property: App\Test\TestCase\Controller\UsersControllerTest::$request in [/home/felipe/blog2/tests/TestCase/Controller/UsersControllerTest.php, line 82]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 153
+App\Test\TestCase\Controller\UsersControllerTest::testLogout() - ROOT/tests/TestCase/Controller/UsersControllerTest.php, line 82
+ReflectionMethod::invokeArgs() - [internal], line ??
+PHPUnit\Framework\TestCase::runTest() - ROOT/vendor/phpunit/phpunit/src/Framework/TestCase.php, line 1071
+PHPUnit\Framework\TestCase::runBare() - ROOT/vendor/phpunit/phpunit/src/Framework/TestCase.php, line 939
+PHPUnit\Framework\TestResult::run() - ROOT/vendor/phpunit/phpunit/src/Framework/TestResult.php, line 698
+PHPUnit\Framework\TestCase::run() - ROOT/vendor/phpunit/phpunit/src/Framework/TestCase.php, line 894
+PHPUnit\Framework\TestSuite::run() - ROOT/vendor/phpunit/phpunit/src/Framework/TestSuite.php, line 744
+PHPUnit\TextUI\TestRunner::doRun() - ROOT/vendor/phpunit/phpunit/src/TextUI/TestRunner.php, line 537
+PHPUnit\TextUI\Command::run() - ROOT/vendor/phpunit/phpunit/src/TextUI/Command.php, line 195
+PHPUnit\TextUI\Command::main() - ROOT/vendor/phpunit/phpunit/src/TextUI/Command.php, line 148
+[main] - ROOT/vendor/phpunit/phpunit/phpunit, line 53
+
+
+
+2017-11-24 18:27:41 Notice: Notice (8): Undefined property: App\Test\TestCase\Controller\UsersControllerTest::$request in [/home/felipe/blog2/tests/TestCase/Controller/UsersControllerTest.php, line 82]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 153
+App\Test\TestCase\Controller\UsersControllerTest::testLogout() - ROOT/tests/TestCase/Controller/UsersControllerTest.php, line 82
+ReflectionMethod::invokeArgs() - [internal], line ??
+PHPUnit\Framework\TestCase::runTest() - ROOT/vendor/phpunit/phpunit/src/Framework/TestCase.php, line 1071
+PHPUnit\Framework\TestCase::runBare() - ROOT/vendor/phpunit/phpunit/src/Framework/TestCase.php, line 939
+PHPUnit\Framework\TestResult::run() - ROOT/vendor/phpunit/phpunit/src/Framework/TestResult.php, line 698
+PHPUnit\Framework\TestCase::run() - ROOT/vendor/phpunit/phpunit/src/Framework/TestCase.php, line 894
+PHPUnit\Framework\TestSuite::run() - ROOT/vendor/phpunit/phpunit/src/Framework/TestSuite.php, line 744
+PHPUnit\TextUI\TestRunner::doRun() - ROOT/vendor/phpunit/phpunit/src/TextUI/TestRunner.php, line 537
+PHPUnit\TextUI\Command::run() - ROOT/vendor/phpunit/phpunit/src/TextUI/Command.php, line 195
+PHPUnit\TextUI\Command::main() - ROOT/vendor/phpunit/phpunit/src/TextUI/Command.php, line 148
+[main] - ROOT/vendor/phpunit/phpunit/phpunit, line 53
+
+
+
+2017-11-24 18:31:32 Notice: Notice (8): Undefined variable: articles in [/home/felipe/blog2/tests/TestCase/Controller/ArticlesControllerTest.php, line 141]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 153
+App\Test\TestCase\Controller\ArticlesControllerTest::testDelete() - ROOT/tests/TestCase/Controller/ArticlesControllerTest.php, line 141
+ReflectionMethod::invokeArgs() - [internal], line ??
+PHPUnit\Framework\TestCase::runTest() - ROOT/vendor/phpunit/phpunit/src/Framework/TestCase.php, line 1071
+PHPUnit\Framework\TestCase::runBare() - ROOT/vendor/phpunit/phpunit/src/Framework/TestCase.php, line 939
+PHPUnit\Framework\TestResult::run() - ROOT/vendor/phpunit/phpunit/src/Framework/TestResult.php, line 698
+PHPUnit\Framework\TestCase::run() - ROOT/vendor/phpunit/phpunit/src/Framework/TestCase.php, line 894
+PHPUnit\Framework\TestSuite::run() - ROOT/vendor/phpunit/phpunit/src/Framework/TestSuite.php, line 744
+PHPUnit\Framework\TestSuite::run() - ROOT/vendor/phpunit/phpunit/src/Framework/TestSuite.php, line 744
+PHPUnit\TextUI\TestRunner::doRun() - ROOT/vendor/phpunit/phpunit/src/TextUI/TestRunner.php, line 537
+PHPUnit\TextUI\Command::run() - ROOT/vendor/phpunit/phpunit/src/TextUI/Command.php, line 195
+PHPUnit\TextUI\Command::main() - ROOT/vendor/phpunit/phpunit/src/TextUI/Command.php, line 148
+[main] - ROOT/vendor/phpunit/phpunit/phpunit, line 53
+
+
+
+2017-11-24 18:32:12 Notice: Notice (8): Undefined variable: articles in [/home/felipe/blog2/tests/TestCase/Controller/ArticlesControllerTest.php, line 141]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 153
+App\Test\TestCase\Controller\ArticlesControllerTest::testDelete() - ROOT/tests/TestCase/Controller/ArticlesControllerTest.php, line 141
+ReflectionMethod::invokeArgs() - [internal], line ??
+PHPUnit\Framework\TestCase::runTest() - ROOT/vendor/phpunit/phpunit/src/Framework/TestCase.php, line 1071
+PHPUnit\Framework\TestCase::runBare() - ROOT/vendor/phpunit/phpunit/src/Framework/TestCase.php, line 939
+PHPUnit\Framework\TestResult::run() - ROOT/vendor/phpunit/phpunit/src/Framework/TestResult.php, line 698
+PHPUnit\Framework\TestCase::run() - ROOT/vendor/phpunit/phpunit/src/Framework/TestCase.php, line 894
+PHPUnit\Framework\TestSuite::run() - ROOT/vendor/phpunit/phpunit/src/Framework/TestSuite.php, line 744
+PHPUnit\TextUI\TestRunner::doRun() - ROOT/vendor/phpunit/phpunit/src/TextUI/TestRunner.php, line 537
+PHPUnit\TextUI\Command::run() - ROOT/vendor/phpunit/phpunit/src/TextUI/Command.php, line 195
+PHPUnit\TextUI\Command::main() - ROOT/vendor/phpunit/phpunit/src/TextUI/Command.php, line 148
+[main] - ROOT/vendor/phpunit/phpunit/phpunit, line 53
+
+
+
+2017-11-27 17:50:32 Notice: Notice (8): Undefined variable: _SESSION in [/home/felipe/blog2/tests/TestCase/Controller/UsersControllerTest.php, line 84]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 153
+App\Test\TestCase\Controller\UsersControllerTest::testLogout() - ROOT/tests/TestCase/Controller/UsersControllerTest.php, line 84
+ReflectionMethod::invokeArgs() - [internal], line ??
+PHPUnit\Framework\TestCase::runTest() - ROOT/vendor/phpunit/phpunit/src/Framework/TestCase.php, line 1071
+PHPUnit\Framework\TestCase::runBare() - ROOT/vendor/phpunit/phpunit/src/Framework/TestCase.php, line 939
+PHPUnit\Framework\TestResult::run() - ROOT/vendor/phpunit/phpunit/src/Framework/TestResult.php, line 698
+PHPUnit\Framework\TestCase::run() - ROOT/vendor/phpunit/phpunit/src/Framework/TestCase.php, line 894
+PHPUnit\Framework\TestSuite::run() - ROOT/vendor/phpunit/phpunit/src/Framework/TestSuite.php, line 744
+PHPUnit\TextUI\TestRunner::doRun() - ROOT/vendor/phpunit/phpunit/src/TextUI/TestRunner.php, line 537
+PHPUnit\TextUI\Command::run() - ROOT/vendor/phpunit/phpunit/src/TextUI/Command.php, line 195
+PHPUnit\TextUI\Command::main() - ROOT/vendor/phpunit/phpunit/src/TextUI/Command.php, line 148
+[main] - ROOT/vendor/phpunit/phpunit/phpunit, line 53
+
+
+
+2017-11-27 17:50:55 Notice: Notice (8): Undefined variable: _SESSION in [/home/felipe/blog2/tests/TestCase/Controller/UsersControllerTest.php, line 84]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 153
+App\Test\TestCase\Controller\UsersControllerTest::testLogout() - ROOT/tests/TestCase/Controller/UsersControllerTest.php, line 84
+ReflectionMethod::invokeArgs() - [internal], line ??
+PHPUnit\Framework\TestCase::runTest() - ROOT/vendor/phpunit/phpunit/src/Framework/TestCase.php, line 1071
+PHPUnit\Framework\TestCase::runBare() - ROOT/vendor/phpunit/phpunit/src/Framework/TestCase.php, line 939
+PHPUnit\Framework\TestResult::run() - ROOT/vendor/phpunit/phpunit/src/Framework/TestResult.php, line 698
+PHPUnit\Framework\TestCase::run() - ROOT/vendor/phpunit/phpunit/src/Framework/TestCase.php, line 894
+PHPUnit\Framework\TestSuite::run() - ROOT/vendor/phpunit/phpunit/src/Framework/TestSuite.php, line 744
+PHPUnit\TextUI\TestRunner::doRun() - ROOT/vendor/phpunit/phpunit/src/TextUI/TestRunner.php, line 537
+PHPUnit\TextUI\Command::run() - ROOT/vendor/phpunit/phpunit/src/TextUI/Command.php, line 195
+PHPUnit\TextUI\Command::main() - ROOT/vendor/phpunit/phpunit/src/TextUI/Command.php, line 148
+[main] - ROOT/vendor/phpunit/phpunit/phpunit, line 53
+
+
+
+2017-11-27 17:51:42 Notice: Notice (8): Undefined variable: _SESSION in [/home/felipe/blog2/tests/TestCase/Controller/UsersControllerTest.php, line 84]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 153
+App\Test\TestCase\Controller\UsersControllerTest::testLogout() - ROOT/tests/TestCase/Controller/UsersControllerTest.php, line 84
+ReflectionMethod::invokeArgs() - [internal], line ??
+PHPUnit\Framework\TestCase::runTest() - ROOT/vendor/phpunit/phpunit/src/Framework/TestCase.php, line 1071
+PHPUnit\Framework\TestCase::runBare() - ROOT/vendor/phpunit/phpunit/src/Framework/TestCase.php, line 939
+PHPUnit\Framework\TestResult::run() - ROOT/vendor/phpunit/phpunit/src/Framework/TestResult.php, line 698
+PHPUnit\Framework\TestCase::run() - ROOT/vendor/phpunit/phpunit/src/Framework/TestCase.php, line 894
+PHPUnit\Framework\TestSuite::run() - ROOT/vendor/phpunit/phpunit/src/Framework/TestSuite.php, line 744
+PHPUnit\TextUI\TestRunner::doRun() - ROOT/vendor/phpunit/phpunit/src/TextUI/TestRunner.php, line 537
+PHPUnit\TextUI\Command::run() - ROOT/vendor/phpunit/phpunit/src/TextUI/Command.php, line 195
+PHPUnit\TextUI\Command::main() - ROOT/vendor/phpunit/phpunit/src/TextUI/Command.php, line 148
+[main] - ROOT/vendor/phpunit/phpunit/phpunit, line 53
+
+
+
+2017-11-27 19:24:32 Notice: Notice (8): Undefined property: App\Test\TestCase\Controller\UsersControllerTest::$request in [/home/felipe/blog2/tests/TestCase/Controller/UsersControllerTest.php, line 86]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 153
+App\Test\TestCase\Controller\UsersControllerTest::testLogout() - ROOT/tests/TestCase/Controller/UsersControllerTest.php, line 86
+ReflectionMethod::invokeArgs() - [internal], line ??
+PHPUnit\Framework\TestCase::runTest() - ROOT/vendor/phpunit/phpunit/src/Framework/TestCase.php, line 1071
+PHPUnit\Framework\TestCase::runBare() - ROOT/vendor/phpunit/phpunit/src/Framework/TestCase.php, line 939
+PHPUnit\Framework\TestResult::run() - ROOT/vendor/phpunit/phpunit/src/Framework/TestResult.php, line 698
+PHPUnit\Framework\TestCase::run() - ROOT/vendor/phpunit/phpunit/src/Framework/TestCase.php, line 894
+PHPUnit\Framework\TestSuite::run() - ROOT/vendor/phpunit/phpunit/src/Framework/TestSuite.php, line 744
+PHPUnit\TextUI\TestRunner::doRun() - ROOT/vendor/phpunit/phpunit/src/TextUI/TestRunner.php, line 537
+PHPUnit\TextUI\Command::run() - ROOT/vendor/phpunit/phpunit/src/TextUI/Command.php, line 195
+PHPUnit\TextUI\Command::main() - ROOT/vendor/phpunit/phpunit/src/TextUI/Command.php, line 148
+[main] - ROOT/vendor/phpunit/phpunit/phpunit, line 53
+
+
+
+2017-11-27 19:24:52 Notice: Notice (8): Undefined property: App\Test\TestCase\Controller\UsersControllerTest::$request in [/home/felipe/blog2/tests/TestCase/Controller/UsersControllerTest.php, line 86]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 153
+App\Test\TestCase\Controller\UsersControllerTest::testLogout() - ROOT/tests/TestCase/Controller/UsersControllerTest.php, line 86
+ReflectionMethod::invokeArgs() - [internal], line ??
+PHPUnit\Framework\TestCase::runTest() - ROOT/vendor/phpunit/phpunit/src/Framework/TestCase.php, line 1071
+PHPUnit\Framework\TestCase::runBare() - ROOT/vendor/phpunit/phpunit/src/Framework/TestCase.php, line 939
+PHPUnit\Framework\TestResult::run() - ROOT/vendor/phpunit/phpunit/src/Framework/TestResult.php, line 698
+PHPUnit\Framework\TestCase::run() - ROOT/vendor/phpunit/phpunit/src/Framework/TestCase.php, line 894
+PHPUnit\Framework\TestSuite::run() - ROOT/vendor/phpunit/phpunit/src/Framework/TestSuite.php, line 744
+PHPUnit\TextUI\TestRunner::doRun() - ROOT/vendor/phpunit/phpunit/src/TextUI/TestRunner.php, line 537
+PHPUnit\TextUI\Command::run() - ROOT/vendor/phpunit/phpunit/src/TextUI/Command.php, line 195
+PHPUnit\TextUI\Command::main() - ROOT/vendor/phpunit/phpunit/src/TextUI/Command.php, line 148
+[main] - ROOT/vendor/phpunit/phpunit/phpunit, line 53
+
+
+
+2017-11-28 18:49:37 Notice: Notice (8): Undefined variable: articles in [/home/felipe/blog2/tests/TestCase/Controller/ArticlesControllerTest.php, line 76]
+Trace:
+Cake\Error\BaseErrorHandler::handleError() - CORE/src/Error/BaseErrorHandler.php, line 153
+App\Test\TestCase\Controller\ArticlesControllerTest::testAdd() - ROOT/tests/TestCase/Controller/ArticlesControllerTest.php, line 76
+ReflectionMethod::invokeArgs() - [internal], line ??
+PHPUnit\Framework\TestCase::runTest() - ROOT/vendor/phpunit/phpunit/src/Framework/TestCase.php, line 1071
+PHPUnit\Framework\TestCase::runBare() - ROOT/vendor/phpunit/phpunit/src/Framework/TestCase.php, line 939
+PHPUnit\Framework\TestResult::run() - ROOT/vendor/phpunit/phpunit/src/Framework/TestResult.php, line 698
+PHPUnit\Framework\TestCase::run() - ROOT/vendor/phpunit/phpunit/src/Framework/TestCase.php, line 894
+PHPUnit\Framework\TestSuite::run() - ROOT/vendor/phpunit/phpunit/src/Framework/TestSuite.php, line 744
+PHPUnit\TextUI\TestRunner::doRun() - ROOT/vendor/phpunit/phpunit/src/TextUI/TestRunner.php, line 537
+PHPUnit\TextUI\Command::run() - ROOT/vendor/phpunit/phpunit/src/TextUI/Command.php, line 195
+PHPUnit\TextUI\Command::main() - ROOT/vendor/phpunit/phpunit/src/TextUI/Command.php, line 148
+[main] - ROOT/vendor/phpunit/phpunit/phpunit, line 53
+
+
+

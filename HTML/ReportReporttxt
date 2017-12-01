@@ -1,0 +1,48 @@
+App\Test\TestCase\Application
+ [x] Middleware
+
+App\Test\TestCase\Controller\ArticlesController
+ [x] Index
+ [x] View
+ [x] Add unauthorized
+ [x] Add
+ [x] Edit
+ [x] Delete
+
+App\Test\TestCase\Controller\CategoriesController
+ [x] Index
+ [x] View
+ [x] Add
+ [x] Edit
+ [x] Delete
+
+App\Test\TestCase\Controller\PagesController
+ [x] Multiple get
+ [x] Display
+ [x] Missing template
+ [x] Missing template in debug
+ [x] Directory traversal protection
+
+App\Test\TestCase\Controller\UsersController
+ [x] Before filter
+ [x] Login
+ [x] Logout
+ [x] Index
+ [x] View
+ [x] Add
+ [x] Is authorized add
+ [x] Is authorized edit
+ [x] Is authorized delete
+
+App\Test\TestCase\Model\Table\ArticlesTable
+ [x] Find published
+ [x] Initialize
+
+App\Test\TestCase\Model\Table\CategoriesTable
+ [ ] Initialize
+ [ ] Validation default
+ [ ] Build rules
+
+App\Test\TestCase\View\Helper\ProgressHelper
+ [x] Bar
+
